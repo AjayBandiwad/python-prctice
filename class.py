@@ -18,4 +18,4 @@ class truck:
         self.tyre = tyre
         self.fuel = "petrol"
         self.carrier = "Frozen Goods"
-        self.fuelstate = 
+        self.fuelstate = False
